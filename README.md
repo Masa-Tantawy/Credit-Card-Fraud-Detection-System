@@ -5,7 +5,7 @@ Conspicuously, technological advances have the capacity to operate on these mass
 
 The aim of this project is to design utility app and a model using the best-performing machine learning algorithm to identify whether or not a future transaction, given its details, is fraudulent or legitimate. After 5 phases, the final model used is a Random Forest. In addition, a utility app was design to allow classification of a transaction inputted by the user.
 
-The description of each phase is:
+The 5 phases are:
 - Phase 1: Problem Identification & Project Specification
 - Phase 2: Data Preparation, Cleaning, and Feature Generation
 - Phase 3: Pilot Study of all supervised machine learning models 
